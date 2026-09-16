@@ -1,16 +1,15 @@
-## Hi there 👋
+### Olá, eu sou o Tom 👋
 
-<!--
-**tommunique/tommunique** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Trabalho com **Engenharia de Produção** e uso dados para apoiar gestão pública — dashboards, painéis de risco e ferramentas que ajudam equipes a enxergar problemas antes que eles piorem.
 
-Here are some ideas to get you started:
+**🔎 Projeto em destaque**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Painel de Obras](https://github.com/tommunique/Analise_Preditiva) ([ver ao vivo](https://tommunique.github.io/Analise_Preditiva/)) — painel com quase 12 mil obras públicas do Piauí: alertas de risco, obras paralisadas e valores em risco, tudo em um só lugar.
+
+**🛠️ Outros projetos**
+
+- [Análise de Pendências](https://github.com/tommunique/Analise_de_Pendencias) ([ver ao vivo](https://tommunique.github.io/Analise_de_Pendencias/)) — ferramenta interna de acesso rápido a planilhas de acompanhamento.
+
+**📫 Contato**
+
+- [LinkedIn](https://www.linkedin.com/in/tomengproducao/)
