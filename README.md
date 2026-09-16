@@ -1,15 +1,11 @@
-### Olá, eu sou o Tom 👋
+## Tom
 
-Trabalho com **Engenharia de Produção** e uso dados para apoiar gestão pública — dashboards, painéis de risco e ferramentas que ajudam equipes a enxergar problemas antes que eles piorem.
+Engenharia de Produção. Dados aplicados à gestão pública.
 
-**🔎 Projeto em destaque**
+### Projetos
 
-- [Painel de Obras](https://github.com/tommunique/Analise_Preditiva) ([ver ao vivo](https://tommunique.github.io/Analise_Preditiva/)) — painel com quase 12 mil obras públicas do Piauí: alertas de risco, obras paralisadas e valores em risco, tudo em um só lugar.
+- [Painel de Obras](https://github.com/tommunique/Analise_Preditiva) ([demo](https://tommunique.github.io/Analise_Preditiva/)) — obras públicas do Piauí: alertas de risco, paralisações e valores em risco.
+- [Mapa de Análise de Impacto Populacional](https://github.com/tommunique/Mapa_de_Analise_de_Impacto_Populacional) ([demo](https://tommunique.github.io/Mapa_de_Analise_de_Impacto_Populacional/)) — população atingida por área, Censo 2022 (IBGE).
+- [Análise de Pendências](https://github.com/tommunique/Analise_de_Pendencias) ([demo](https://tommunique.github.io/Analise_de_Pendencias/)) — acesso a planilhas de acompanhamento.
 
-**🛠️ Outros projetos**
-
-- [Análise de Pendências](https://github.com/tommunique/Analise_de_Pendencias) ([ver ao vivo](https://tommunique.github.io/Analise_de_Pendencias/)) — ferramenta interna de acesso rápido a planilhas de acompanhamento.
-
-**📫 Contato**
-
-- [LinkedIn](https://www.linkedin.com/in/tomengproducao/)
+[LinkedIn](https://www.linkedin.com/in/tomengproducao/)
